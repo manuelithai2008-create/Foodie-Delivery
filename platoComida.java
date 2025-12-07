@@ -1,4 +1,5 @@
 public class platoComida extends ItemMenu {
+    
     private boolean esVegetariano;
 
     public platoComida(String id, String nombre, double precio, boolean esVegetariano) {
